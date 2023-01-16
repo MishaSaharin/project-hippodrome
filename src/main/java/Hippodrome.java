@@ -5,6 +5,9 @@ import java.util.List;
 import static java.util.Objects.isNull;
 
 public class Hippodrome {
+    
+    
+    
 
     private final List<Horse> horses;
 
